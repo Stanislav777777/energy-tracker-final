@@ -1,3 +1,3 @@
-# Energy Tracker
+# Energy Tracker App
 
-This is a basic Next.js app template for deployment on Vercel.
+Track your habits daily.
